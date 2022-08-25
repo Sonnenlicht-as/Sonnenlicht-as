@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 <!-- ![Sonnenlicht's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonnenlicht-as&show_icons=true&theme=radical) -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonnenlicht-as&layout=compact&count_private=true&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonnenlicht-as&layout=compact&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
