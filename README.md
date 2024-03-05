@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Sonnenlicht's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonnenlicht-as&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Sonnenlicht's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonnenlicht-as&count_private=true)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
 <!-- ![Sonnenlicht's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonnenlicht-as&show_icons=true&theme=radical) -->
